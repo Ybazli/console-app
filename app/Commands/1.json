@@ -1,0 +1,454 @@
+{
+    "api": {
+        "results": 14,
+        "fixtures": [{
+                "fixture_id": 235902,
+                "league_id": 907,
+                "event_date": "2019-10-28T17:00:00+00:00",
+                "event_timestamp": 1572282000,
+                "firstHalfStart": 1572282000,
+                "secondHalfStart": 1572285600,
+                "round": "Regular Season - 10",
+                "status": "Second Half",
+                "statusShort": "2H",
+                "elapsed": 52,
+                "venue": "Stadiumi Flamurtari",
+                "referee": null,
+                "homeTeam": {
+                    "team_id": 3317,
+                    "team_name": "Flamurtari",
+                    "logo": "https://media.api-football.com/teams/3317.png"
+                },
+                "awayTeam": {
+                    "team_id": 605,
+                    "team_name": "Skenderbeu Korce",
+                    "logo": "https://media.api-football.com/teams/605.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "1-1",
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 235903,
+                "league_id": 907,
+                "event_date": "2019-10-28T17:00:00+00:00",
+                "event_timestamp": 1572282000,
+                "firstHalfStart": 1572282000,
+                "secondHalfStart": 1572285600,
+                "round": "Regular Season - 10",
+                "status": "Second Half",
+                "statusShort": "2H",
+                "elapsed": 48,
+                "venue": "Stadiumi Selman Stërmasi",
+                "referee": null,
+                "homeTeam": {
+                    "team_id": 708,
+                    "team_name": "Partizani",
+                    "logo": "https://media.api-football.com/teams/708.png"
+                },
+                "awayTeam": {
+                    "team_id": 577,
+                    "team_name": "FK Kukesi",
+                    "logo": "https://media.api-football.com/teams/577.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216029,
+                "league_id": 782,
+                "event_date": "2019-10-28T17:00:00+00:00",
+                "event_timestamp": 1572282000,
+                "firstHalfStart": 1572282000,
+                "secondHalfStart": 1572285600,
+                "round": "Regular Season - 9",
+                "status": "Second Half",
+                "statusShort": "2H",
+                "elapsed": 49,
+                "venue": "Basaksehir Fatih Terim Stadyumu",
+                "referee": "Ali Palabiyik, Turkey",
+                "homeTeam": {
+                    "team_id": 564,
+                    "team_name": "Istanbul Basaksehir",
+                    "logo": "https://media.api-football.com/teams/564.png"
+                },
+                "awayTeam": {
+                    "team_id": 998,
+                    "team_name": "Trabzonspor",
+                    "logo": "https://media.api-football.com/teams/998.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216413,
+                "league_id": 786,
+                "event_date": "2019-10-28T17:00:00+00:00",
+                "event_timestamp": 1572282000,
+                "firstHalfStart": 1572282000,
+                "secondHalfStart": 1572285600,
+                "round": "Regular Season - 7",
+                "status": "Second Half",
+                "statusShort": "2H",
+                "elapsed": 48,
+                "venue": "N. Papas Group Ammochostos-Epistrofi",
+                "referee": "Giorgos Nicolaou, Cyprus",
+                "homeTeam": {
+                    "team_id": 3401,
+                    "team_name": "Nea Salamis",
+                    "logo": "https://media.api-football.com/teams/3401.png"
+                },
+                "awayTeam": {
+                    "team_id": 2247,
+                    "team_name": "Apoel Nicosia",
+                    "logo": "https://media.api-football.com/teams/2247.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216558,
+                "league_id": 787,
+                "event_date": "2019-10-28T17:30:00+00:00",
+                "event_timestamp": 1572283800,
+                "firstHalfStart": 1572283800,
+                "secondHalfStart": null,
+                "round": "Regular Season - 8",
+                "status": "First Half",
+                "statusShort": "1H",
+                "elapsed": 34,
+                "venue": "Stadio Theodoros Kolokotronis",
+                "referee": "Georgios Tasis, Greece",
+                "homeTeam": {
+                    "team_id": 955,
+                    "team_name": "Asteras Tripolis",
+                    "logo": "https://media.api-football.com/teams/955.png"
+                },
+                "awayTeam": {
+                    "team_id": 956,
+                    "team_name": "Lamia",
+                    "logo": "https://media.api-football.com/teams/956.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "1-0",
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 76625,
+                "league_id": 291,
+                "event_date": "2019-10-28T18:00:00+00:00",
+                "event_timestamp": 1572285600,
+                "firstHalfStart": 1572285600,
+                "secondHalfStart": null,
+                "round": "Regular Season - 29",
+                "status": "First Half",
+                "statusShort": "1H",
+                "elapsed": 4,
+                "venue": "Tele2 Arena",
+                "referee": "Stefan Johannesson, Sweden",
+                "homeTeam": {
+                    "team_id": 364,
+                    "team_name": "Djurgardens IF",
+                    "logo": "https://media.api-football.com/teams/364.png"
+                },
+                "awayTeam": {
+                    "team_id": 365,
+                    "team_name": "Orebro SK",
+                    "logo": "https://media.api-football.com/teams/365.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "1-0",
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 76627,
+                "league_id": 291,
+                "event_date": "2019-10-28T18:00:00+00:00",
+                "event_timestamp": 1572285600,
+                "firstHalfStart": 1572285600,
+                "secondHalfStart": null,
+                "round": "Regular Season - 29",
+                "status": "First Half",
+                "statusShort": "1H",
+                "elapsed": 5,
+                "venue": "Borås Arena",
+                "referee": "Kaspar Sjoberg, Sweden",
+                "homeTeam": {
+                    "team_id": 372,
+                    "team_name": "IF Elfsborg",
+                    "logo": "https://media.api-football.com/teams/372.png"
+                },
+                "awayTeam": {
+                    "team_id": 366,
+                    "team_name": "IFK Goteborg",
+                    "logo": "https://media.api-football.com/teams/366.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 76629,
+                "league_id": 291,
+                "event_date": "2019-10-28T18:00:00+00:00",
+                "event_timestamp": 1572285600,
+                "firstHalfStart": 1572285600,
+                "secondHalfStart": null,
+                "round": "Regular Season - 29",
+                "status": "First Half",
+                "statusShort": "1H",
+                "elapsed": 5,
+                "venue": "Swedbank Stadion",
+                "referee": "Bojan Pandzic, Sweden",
+                "homeTeam": {
+                    "team_id": 375,
+                    "team_name": "Malmo FF",
+                    "logo": "https://media.api-football.com/teams/375.png"
+                },
+                "awayTeam": {
+                    "team_id": 377,
+                    "team_name": "AIK Stockholm",
+                    "logo": "https://media.api-football.com/teams/377.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 76388,
+                "league_id": 290,
+                "event_date": "2019-10-28T18:00:00+00:00",
+                "event_timestamp": 1572285600,
+                "firstHalfStart": 1572285600,
+                "secondHalfStart": null,
+                "round": "Regular Season - 29",
+                "status": "First Half",
+                "statusShort": "1H",
+                "elapsed": 4,
+                "venue": "Strandvallen",
+                "referee": null,
+                "homeTeam": {
+                    "team_id": 2240,
+                    "team_name": "Mjallby AIF",
+                    "logo": "https://media.api-football.com/teams/2240.png"
+                },
+                "awayTeam": {
+                    "team_id": 2167,
+                    "team_name": "Syrianska FC",
+                    "logo": "https://media.api-football.com/teams/2167.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 76389,
+                "league_id": 290,
+                "event_date": "2019-10-28T18:00:00+00:00",
+                "event_timestamp": 1572285600,
+                "firstHalfStart": 1572285600,
+                "secondHalfStart": null,
+                "round": "Regular Season - 29",
+                "status": "First Half",
+                "statusShort": "1H",
+                "elapsed": 6,
+                "venue": "Nya Ullevi",
+                "referee": null,
+                "homeTeam": {
+                    "team_id": 2166,
+                    "team_name": "Orgryte IS",
+                    "logo": "https://media.api-football.com/teams/2166.png"
+                },
+                "awayTeam": {
+                    "team_id": 368,
+                    "team_name": "dalkurd FF",
+                    "logo": "https://media.api-football.com/teams/368.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 153826,
+                "league_id": 515,
+                "event_date": "2019-10-28T18:00:00+00:00",
+                "event_timestamp": 1572285600,
+                "firstHalfStart": 1572285600,
+                "secondHalfStart": null,
+                "round": "Regular Season - 14",
+                "status": "First Half",
+                "statusShort": "1H",
+                "elapsed": 4,
+                "venue": "Ceres Park",
+                "referee": "Mads Kristoffer Kristoffersen, Denmark",
+                "homeTeam": {
+                    "team_id": 406,
+                    "team_name": "Aarhus",
+                    "logo": "https://media.api-football.com/teams/406.png"
+                },
+                "awayTeam": {
+                    "team_id": 400,
+                    "team_name": "FC Copenhagen",
+                    "logo": "https://media.api-football.com/teams/400.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 208660,
+                "league_id": 753,
+                "event_date": "2019-10-28T18:00:00+00:00",
+                "event_timestamp": 1572285600,
+                "firstHalfStart": 1572285600,
+                "secondHalfStart": null,
+                "round": "Regular Season - 13",
+                "status": "First Half",
+                "statusShort": "1H",
+                "elapsed": 6,
+                "venue": "Grünwalder Stadion, München",
+                "referee": "Florian Exner, Germany",
+                "homeTeam": {
+                    "team_id": 4674,
+                    "team_name": "Bayern München II",
+                    "logo": "https://media.api-football.com/teams/4674.png"
+                },
+                "awayTeam": {
+                    "team_id": 4268,
+                    "team_name": "Waldhof Mannheim",
+                    "logo": "https://media.api-football.com/teams/4268.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 244285,
+                "league_id": 666,
+                "event_date": "2019-10-28T18:00:00+00:00",
+                "event_timestamp": 1572285600,
+                "firstHalfStart": 1572285600,
+                "secondHalfStart": null,
+                "round": "Regular Season - 8",
+                "status": "First Half",
+                "statusShort": "1H",
+                "elapsed": 5,
+                "venue": null,
+                "referee": null,
+                "homeTeam": {
+                    "team_id": 3651,
+                    "team_name": "Santa Lucía",
+                    "logo": "https://media.api-football.com/teams/3651.png"
+                },
+                "awayTeam": {
+                    "team_id": 3884,
+                    "team_name": "Hibernians",
+                    "logo": "https://media.api-football.com/teams/3884.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 75808,
+                "league_id": 287,
+                "event_date": "2019-10-28T18:00:00+00:00",
+                "event_timestamp": 1572285600,
+                "firstHalfStart": 1572285600,
+                "secondHalfStart": null,
+                "round": "Regular Season - 26",
+                "status": "First Half",
+                "statusShort": "1H",
+                "elapsed": 4,
+                "venue": "Brann Stadion",
+                "referee": "Rohit Saggi, Norway",
+                "homeTeam": {
+                    "team_id": 319,
+                    "team_name": "Brann",
+                    "logo": "https://media.api-football.com/teams/319.png"
+                },
+                "awayTeam": {
+                    "team_id": 327,
+                    "team_name": "Bodo/Glimt",
+                    "logo": "https://media.api-football.com/teams/327.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            }
+        ]
+    }
+}
